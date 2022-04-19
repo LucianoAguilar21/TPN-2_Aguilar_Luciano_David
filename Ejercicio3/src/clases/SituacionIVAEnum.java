@@ -1,0 +1,6 @@
+package clases;
+
+public enum SituacionIVAEnum {
+	RESP_INSCRIPTO, RESP_NOINSCRIPTO, CONSUMIDOR_FINAL,
+	RESP_MONOTRIBUTO
+}
